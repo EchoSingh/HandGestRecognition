@@ -28,7 +28,7 @@ Welcome to the **HandGestRecognition** project! This project uses OpenCV to perf
 Make sure you have the following installed:
 
 - **OpenCV** 📦
-  - Download OpenCV 4.10.0 for Windows and extract it to `C:\opencv`.
+  - Download OpenCV 4.10.0 for Windows [LINK](https://opencv.org/releases/) and extract it to `C:\opencv`.
   - Add `C:\opencv\build\bin` to your system's PATH environment variable.
 
 ### Building the Project

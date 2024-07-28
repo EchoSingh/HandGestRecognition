@@ -26,7 +26,8 @@ Welcome to the **HandGestRecognition** project! This project uses OpenCV to perf
 ### Prerequisites
 
 Make sure you have the following installed:
-
+- **VisualStudio** <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" width="25" height="25">
+  - Download Visual Studio from [LINK](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
 - **OpenCV** 📦
   - Download OpenCV 4.10.0 for Windows [LINK](https://opencv.org/releases/) and extract it to `C:\opencv`.
   - Add `C:\opencv\build\bin` to your system's PATH environment variable.

@@ -44,7 +44,6 @@ Make sure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/EchoSingh/HandGestRecognition.git
-   cd HandGestRecognition
     ```
 2. Build and run the project in Visual Studio. 🛠️🎬
 

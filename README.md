@@ -47,5 +47,5 @@ Make sure you have the following installed:
     ```
 2. Build and run the project in Visual Studio. 🛠️🎬
 
-Enjoy recognizing hand gestures with your webcam! 📸👌
+Enjoy recognizing hand gestures with your webcam! 📸👌 [Screenshot](https://github.com/EchoSingh/HandGestRecognition/blob/main/Screenshot.png)
 Feel free to contribute and improve the project. Happy coding! 😊

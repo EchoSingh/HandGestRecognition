@@ -36,8 +36,9 @@ Make sure you have the following installed:
 
 1. Open your Visual Studio project. 🖥️
 2. Go to `Project -> Properties`. ⚙️
-3. Navigate to `VC++ Directories` and add the paths to your OpenCV `include` and `lib` directories. 📂
-4. Under `Linker -> Input`, add the OpenCV libraries you need (for debug mode : `opencv_world4100d.lib`). 📚
+3. Navigate to `C/C++ -> General -> Additional Include Directories` and add the paths to your OpenCV `include` directories. 📂
+4. Navigate to `Linker -> General -> Additional Include Directories` and add the paths to your OpenCV `lib` directories. 📂
+5. Under `Linker -> Input -> Additional Dependencies`, add the OpenCV libraries you need (for debug mode : `opencv_world4100d.lib`). 📚
 
 ### Running the Project
 
